@@ -1,0 +1,4 @@
+this is a txt file
+it is used to test git
+i am learning how to use git
+over
