@@ -1,9 +1,4 @@
-this is a txt file
-it is used to test git
-i am learning how to use git
-over
-add a new row,how it happend?
-11111111111
-222222
-
-333333333
+readme
+2019-01-30
+git-study
+basic operation
