@@ -6,3 +6,4 @@ basic operation
 14:30 add continue
 only modify one file, only updata one file when git add
 add newline in bytedance
+add second line
